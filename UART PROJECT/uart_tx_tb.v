@@ -20,7 +20,7 @@ module uart_tx_tb;
     always #5 clk = ~clk;  
 
     initial begin
-        $display("Starting UART TX simulation...");
+        $display("Starting UART TX simulation");
         #100;
         data_in = 8'h55;
         tx_start = 1;
@@ -35,7 +35,7 @@ module uart_tx_tb;
         tx_start = 0;
         wait (!busy);
         #10000;
-        $display("UART TX simulation complete.");
+        $display("UART TX simulation complete");
         $finish;
     end
 endmodule
