@@ -1,0 +1,8 @@
+set_property PACKAGE_PIN F14 [get_ports clk_100MHz]
+set_property PACKAGE_PIN U3 [get_ports {RGB[0]}]
+set_property PACKAGE_PIN V5 [get_ports {RGB[2]}]
+set_property IOSTANDARD LVCMOS33 [get_ports {RGB[2]}]
+set_property IOSTANDARD LVCMOS33 [get_ports {RGB[1]}]
+set_property IOSTANDARD LVCMOS33 [get_ports {RGB[0]}]
+set_property IOSTANDARD LVCMOS33 [get_ports clk_100MHz]
+set_property PACKAGE_PIN V3 [get_ports {RGB[1]}]
