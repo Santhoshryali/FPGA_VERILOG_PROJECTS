@@ -56,7 +56,7 @@ These projects were developed as part of a one-month FPGA Design Internship at *
 
 **Santhosh**  
 B.Tech ECE | VLSI & FPGA Design Enthusiast  
-[LinkedIn](https://www.linkedin.com/in/ryali-sai-syam-naga-santhosh-5071a62b5) 
+[LinkedIn](https://www.linkedin.com/in/sai-syam-naga-santhosh-ryali-5071a62b5) 
 
 ---
 
